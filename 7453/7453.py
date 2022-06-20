@@ -2,7 +2,6 @@ import sys
 sys.stdin = open("input.txt")
 
 n = int(input())
-nums = []
 a, b, c, d = [], [], [], []
 
 for _ in range(n):
